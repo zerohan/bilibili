@@ -1,0 +1,14 @@
+*{ margin:0; padding:0} 
+.header{
+    min-width:1200px;
+	max-width:1800px;
+	width:100%;
+    margin: 0 auto;
+    height:50px;
+    background-color: rgb(241,241,241);
+}
+#most{
+	margin-top:2px;
+	margin-left:20px;
+}
+.bili2{margin-left:5px;}

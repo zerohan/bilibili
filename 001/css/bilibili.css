@@ -1,0 +1,31 @@
+*{ margin:0; padding:0} 
+.header{
+    min-width:1200px;
+	max-width:1800px;
+	width:100%;
+    margin: 0 auto;
+    height:50px;
+    background-color: rgb(241,241,241);
+}
+#most{
+	margin-top:2px;
+	margin-left:20px;
+}
+.bili{margin-left:5px;}
+#setin
+{float: right;
+margin-top:2px;
+margin-right:80px;
+}
+#setup
+{float: right;
+margin-top:2px;
+margin-right:20px;
+}
+.screen
+{width:1000px;
+height:200px;
+margin-top:10px;
+margin-left:300px;
+}
+
